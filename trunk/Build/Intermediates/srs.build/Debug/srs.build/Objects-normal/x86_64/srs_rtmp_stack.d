@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/admin/Downloads/srs-csdn/trunk/src/protocol/srs_rtmp_stack.cpp \
+  /Users/admin/srs-csdn/trunk/src/protocol/srs_rtmp_stack.hpp \
+  /Users/admin/srs-csdn/trunk/src/core/srs_core.hpp \
+  /Users/admin/srs-csdn/trunk/src/srs_auto_headers.hpp \
+  /Users/admin/srs-csdn/trunk/src/core/srs_core_performance.hpp \
+  /Users/admin/srs-csdn/trunk/src/kernel/srs_kernel_log.hpp \
+  /Users/admin/srs-csdn/trunk/src/kernel/srs_kernel_consts.hpp \
+  /Users/admin/srs-csdn/trunk/src/kernel/srs_kernel_error.hpp \
+  /Users/admin/srs-csdn/trunk/src/kernel/srs_kernel_flv.hpp \
+  /Users/admin/srs-csdn/trunk/src/protocol/srs_rtmp_amf0.hpp \
+  /Users/admin/srs-csdn/trunk/src/protocol/srs_rtmp_io.hpp \
+  /Users/admin/srs-csdn/trunk/src/kernel/srs_kernel_stream.hpp \
+  /Users/admin/srs-csdn/trunk/src/core/srs_core_autofree.hpp \
+  /Users/admin/srs-csdn/trunk/src/kernel/srs_kernel_utility.hpp \
+  /Users/admin/srs-csdn/trunk/src/protocol/srs_protocol_buffer.hpp \
+  /Users/admin/srs-csdn/trunk/src/kernel/srs_kernel_buffer.hpp \
+  /Users/admin/srs-csdn/trunk/src/protocol/srs_rtmp_utility.hpp \
+  /Users/admin/srs-csdn/trunk/src/protocol/srs_rtmp_handshake.hpp \
+  /Users/admin/srs-csdn/trunk/objs/openssl/include/openssl/hmac.h \
+  /Users/admin/srs-csdn/trunk/objs/openssl/include/openssl/opensslconf.h \
+  /Users/admin/srs-csdn/trunk/objs/openssl/include/openssl/evp.h \
+  /Users/admin/srs-csdn/trunk/objs/openssl/include/openssl/ossl_typ.h \
+  /Users/admin/srs-csdn/trunk/objs/openssl/include/openssl/e_os2.h \
+  /Users/admin/srs-csdn/trunk/objs/openssl/include/openssl/symhacks.h \
+  /Users/admin/srs-csdn/trunk/objs/openssl/include/openssl/bio.h \
+  /Users/admin/srs-csdn/trunk/objs/openssl/include/openssl/crypto.h \
+  /Users/admin/srs-csdn/trunk/objs/openssl/include/openssl/stack.h \
+  /Users/admin/srs-csdn/trunk/objs/openssl/include/openssl/safestack.h \
+  /Users/admin/srs-csdn/trunk/objs/openssl/include/openssl/opensslv.h \
+  /Users/admin/srs-csdn/trunk/objs/openssl/include/openssl/objects.h \
+  /Users/admin/srs-csdn/trunk/objs/openssl/include/openssl/obj_mac.h \
+  /Users/admin/srs-csdn/trunk/objs/openssl/include/openssl/asn1.h \
+  /Users/admin/srs-csdn/trunk/objs/openssl/include/openssl/bn.h
